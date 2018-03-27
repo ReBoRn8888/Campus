@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\raw\\express.txt",
+        "source": "E:\\ToolBar1\\app\\src\\main\\res\\raw\\express.txt"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\raw\\schoolbus.txt",
+        "source": "E:\\ToolBar1\\app\\src\\main\\res\\raw\\schoolbus.txt"
+    }
+]

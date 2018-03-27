@@ -1,0 +1,198 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+    	<item name="colorPrimary">#ffffff</item>
+    	<item name="actionBarSize">50dp</item>
+    	<item name="windowActionBar">false</item>
+    	<item name="titleTextAppearance">@style/CustomTitleTextAppearance</item>
+    </style>
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    
+    <style name="CustomTitleTextAppearance">
+        <item name="android:textColor">#fff</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    <!-- PagerSlidingTabStrip的自定义样式 -->
+    <style name="pagerTabStype">
+        <item name="pstsShouldExpand">true</item>
+        <item name="pstsDividerColor">#ede2e1d4</item>
+        <item name="pstsUnderlineHeight">1dp</item>
+        <item name="pstsIndicatorHeight">3dp</item>
+        <item name="pstsIndicatorColor">#c93042</item>
+    </style>
+
+    <style name="main_tab_bottom">
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">13dp</item>
+        <item name="android:layout_marginRight">13dp</item>
+        <item name="android:button">@null</item>
+        <item name="android:drawablePadding">@dimen/bottom_tab_padding_drawable</item>
+        <item name="android:paddingTop">@dimen/bottom_tab_padding_up</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+
+    <style name="home_button_style">
+        <item name="android:layout_width">90dp</item>
+        <item name="android:layout_height">130dp</item>
+        <item name="android:layout_weight">1.0</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="nearby_spinner_style">
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@null</item>
+        <item name="android:layout_marginTop">6dip</item>
+        <item name="android:layout_weight">1.0</item>65555555555555555555555555555555555555555555555
+    </style>
+
+    <style name="sort_alllist_item_button_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@null</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_marginTop">10dip</item>
+        <item name="android:layout_marginBottom">10dip</item>
+        <item name="android:layout_weight">1.0</item>
+        <item name="android:textSize">15.0sp</item>
+    </style>
+
+    <style name="sort_sortlist_style">
+        <item name="android:background">@drawable/ta_bg</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:divider">@drawable/listline</item>
+        <item name="android:layout_marginLeft">10dip</item>
+        <item name="android:layout_marginRight">10dip</item>
+        <item name="android:layout_marginBottom">10dip</item>
+        <item name="android:cacheColorHint">#00000000</item>
+    </style>
+
+    <style name="some_used">
+        <item name="android:layout_marginTop">10dip</item>
+        <item name="android:layout_marginLeft">10dip</item>
+        <item name="android:layout_marginRight">10dip</item>
+        <item name="android:layout_marginBottom">10dip</item>
+    </style>
+
+    <style name="some_used_button">
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">#00000000</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="more_text_style">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:background">#00000000</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="top_text_style">
+        <item name="android:background">@drawable/top_bg</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">20.0sp</item>
+    </style>
+
+    <style name="bus_info_text_style">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1.0</item>
+        <item name="android:clickable">true</item>
+    </style>
+
+    <style name="toolbar_botton">
+        <item name="android:background">#0000</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">18dp</item>
+    </style>
+
+    <style name="toolbar_image">
+        <item name="android:layout_width">60dp</item>
+        <item name="android:layout_height">60dp</item>
+    </style>
+
+    <style name="menu_text">
+        <item name="android:textSize">18dp</item>
+        <item name="android:layout_marginLeft">40dp</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+</resources>

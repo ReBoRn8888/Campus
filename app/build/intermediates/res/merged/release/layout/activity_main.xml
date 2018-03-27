@@ -1,0 +1,211 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.jredu.MainActivity" >
+
+    <!--<android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        android:minHeight="?attr/actionBarSize"
+
+        />-->
+
+    <RelativeLayout
+        android:id="@+id/re1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="#57c1af"
+            android:minHeight="?attr/actionBarSize">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Toolbar Title"
+                android:layout_gravity="center"
+                android:textColor="#ffffff"
+                android:textSize="22dp"
+                android:id="@+id/toolbar_title" />
+        </android.support.v7.widget.Toolbar>
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:orientation="horizontal" >
+
+            <ImageButton
+                android:id="@+id/search"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/search"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true" />
+
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <android.support.v4.widget.DrawerLayout
+        android:id="@+id/drawerLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/re1">
+
+        <LinearLayout
+            android:id="@+id/main"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <android.support.v4.view.ViewPager
+                android:id="@+id/pager"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="9"
+                tools:context=".MainActivity" />
+
+            <com.jredu.util.PagerSlidingTabStrip
+                android:id="@+id/tabs"
+                style="@style/pagerTabStype"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:background="@drawable/blue" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/left"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            android:background="#fff"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:paddingTop="30dp"
+                android:background="@drawable/blue">
+
+                <ImageView
+                    android:layout_width="95dp"
+                    android:layout_height="95dp"
+                    android:src="@drawable/voicedialer"
+                    android:id="@+id/imageView"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerHorizontal="true" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Ecnuer"
+                    android:textSize="21sp"
+                    android:textColor="#ffffff"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_centerVertical="true"
+                    android:layout_centerHorizontal="true"
+                    android:layout_below="@id/imageView"/>
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginLeft="35dp"
+                    android:id="@+id/list">
+                    <ImageView
+                        style="@style/toolbar_image"
+                        android:background="@drawable/notes"/>
+                    <TextView
+                        style="@style/menu_text"
+                        android:text="我的订单" />
+                </LinearLayout>
+                <LinearLayout
+                    android:id="@+id/favour"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginLeft="35dp">
+                    <ImageView
+                        style="@style/toolbar_image"
+                        android:background="@drawable/fileexplorer"/>
+                    <TextView
+                        style="@style/menu_text"
+                        android:text="我的收藏" />
+                </LinearLayout>
+                <LinearLayout
+                    android:id="@+id/location"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginLeft="35dp">
+                    <ImageView
+                        style="@style/toolbar_image"
+                        android:background="@drawable/maps"/>
+                    <TextView
+                        style="@style/menu_text"
+                        android:text="我的位置" />
+                </LinearLayout>
+                <ImageView
+                    android:layout_width="280dp"
+                    android:layout_height="1px"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/tab_bg"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginTop="10dp"
+                    />
+                <LinearLayout
+                    android:id="@+id/settings"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginLeft="35dp">
+                    <ImageView
+                        style="@style/toolbar_image"
+                        android:background="@drawable/settings"/>
+                    <TextView
+                        style="@style/menu_text"
+                        android:text="用户设置" />
+                </LinearLayout>
+                <LinearLayout
+                    android:id="@+id/feedback"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginLeft="35dp">
+                    <ImageView
+                        style="@style/toolbar_image"
+                        android:background="@drawable/mms"/>
+                    <TextView
+                        style="@style/menu_text"
+                        android:text="用户反馈" />
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginLeft="35dp"
+                    android:id="@+id/about">
+                    <ImageView
+                        style="@style/toolbar_image"
+                        android:background="@drawable/phone"/>
+                    <TextView
+                        style="@style/menu_text"
+                        android:text="关于我们" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </android.support.v4.widget.DrawerLayout>
+</RelativeLayout>

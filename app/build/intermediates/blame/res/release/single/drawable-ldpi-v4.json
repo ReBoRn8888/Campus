@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_menu_share.png",
+        "source": "E:\\ToolBar1\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_menu_share.png"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_menu_camera.png",
+        "source": "E:\\ToolBar1\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_menu_camera.png"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_menu_slideshow.png",
+        "source": "E:\\ToolBar1\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_menu_slideshow.png"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_menu_send.png",
+        "source": "E:\\ToolBar1\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_menu_send.png"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_menu_gallery.png",
+        "source": "E:\\ToolBar1\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_menu_gallery.png"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_menu_manage.png",
+        "source": "E:\\ToolBar1\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_menu_manage.png"
+    }
+]

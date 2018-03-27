@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\rankinglist.xml",
+        "source": "E:\\ToolBar1\\app\\src\\main\\res\\layout\\rankinglist.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\ToolBar1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\options.xml",
+        "source": "E:\\ToolBar1\\app\\src\\main\\res\\layout\\options.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\about.xml",
+        "source": "E:\\ToolBar1\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\feedback.xml",
+        "source": "E:\\ToolBar1\\app\\src\\main\\res\\layout\\feedback.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\ToolBar1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\map.xml",
+        "source": "E:\\ToolBar1\\app\\src\\main\\res\\layout\\map.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\home_buttons.xml",
+        "source": "E:\\ToolBar1\\app\\src\\main\\res\\layout\\home_buttons.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\home.xml",
+        "source": "E:\\ToolBar1\\app\\src\\main\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "E:\\ToolBar1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\ToolBar1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\ToolBar1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "E:\\ToolBar1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\ToolBar1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "E:\\ToolBar1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\ToolBar1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\mine.xml",
+        "source": "E:\\ToolBar1\\app\\src\\main\\res\\layout\\mine.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\ToolBar1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\ToolBar1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\spinner_down.xml",
+        "source": "E:\\ToolBar1\\app\\src\\main\\res\\layout\\spinner_down.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\ToolBar1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\ToolBar1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\ToolBar1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\ToolBar1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\ToolBar1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "E:\\ToolBar1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\ToolBar1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\framget_layout.xml",
+        "source": "E:\\ToolBar1\\app\\src\\main\\res\\layout\\framget_layout.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\ToolBar1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\ToolBar1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "E:\\ToolBar1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\spinner_text.xml",
+        "source": "E:\\ToolBar1\\app\\src\\main\\res\\layout\\spinner_text.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\ToolBar1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\options_list.xml",
+        "source": "E:\\ToolBar1\\app\\src\\main\\res\\layout\\options_list.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\nearby_business.xml",
+        "source": "E:\\ToolBar1\\app\\src\\main\\res\\layout\\nearby_business.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\ToolBar1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\nearby.xml",
+        "source": "E:\\ToolBar1\\app\\src\\main\\res\\layout\\nearby.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\ToolBar1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\more.xml",
+        "source": "E:\\ToolBar1\\app\\src\\main\\res\\layout\\more.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\businesse_information.xml",
+        "source": "E:\\ToolBar1\\app\\src\\main\\res\\layout\\businesse_information.xml"
+    },
+    {
+        "merged": "E:\\ToolBar1\\app\\build\\intermediates\\res\\merged\\release\\layout\\businesse_information_detail.xml",
+        "source": "E:\\ToolBar1\\app\\src\\main\\res\\layout\\businesse_information_detail.xml"
+    }
+]

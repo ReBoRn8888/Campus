@@ -1,0 +1,147 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:2:1-80:12
+	package
+		ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:3:5-24
+		INJECTED from E:\ToolBar1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ToolBar1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\ToolBar1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ToolBar1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\ToolBar1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ToolBar1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:21.0.3] E:\ToolBar1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] E:\ToolBar1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] E:\ToolBar1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml:15:5-42
+	android:targetSdkVersion
+		ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\ToolBar1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ToolBar1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from E:\ToolBar1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ToolBar1\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:11:5-41:19
+MERGED from [com.android.support:appcompat-v7:21.0.3] E:\ToolBar1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] E:\ToolBar1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] E:\ToolBar1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:15:9-40
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:17:9-19:56
+	android:value
+		ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:19:13-53
+	android:name
+		ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:18:13-52
+meta-data#BaiduMobAd_STAT_ID
+ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:21:9-23:42
+	android:value
+		ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:23:13-39
+	android:name
+		ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:22:13-46
+service#com.baidu.location.f
+ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:25:9-27:19
+	android:enabled
+		ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:26:49-71
+	android:process
+		ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:26:72-97
+	android:name
+		ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:26:13-48
+activity#com.jredu.MainActivity
+ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:29:9-37:20
+	android:label
+		ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:30:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:35:27-74
+activity#com.jredu.VariousActivity
+ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:38:9-71
+	android:name
+		ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:38:19-59
+activity#com.jredu.BusinessActivity
+ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:39:9-72
+	android:name
+		ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:39:19-60
+activity#com.jredu.MapActivity
+ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:40:9-67
+	android:name
+		ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:40:19-55
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:43:5-44:23
+	android:name
+		ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:43:22-76
+uses-permission#android.permission.INTERNET
+ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:45:5-46:23
+	android:name
+		ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:45:22-64
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:47:5-85
+	android:name
+		ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:47:22-82
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:48:5-49:23
+	android:name
+		ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:48:22-65
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:50:5-76
+	android:name
+		ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:50:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:51:5-76
+	android:name
+		ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:51:22-73
+uses-permission#android.permission.GET_TASKS
+ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:53:5-68
+	android:name
+		ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:53:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:54:5-55:23
+	android:name
+		ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:54:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:56:5-73
+	android:name
+		ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:56:22-70
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:58:5-97
+	android:name
+		ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:58:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:60:5-95
+	android:name
+		ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:60:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:68:5-91
+	android:name
+		ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:68:22-72
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:74:5-100
+	android:name
+		ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:74:22-81
+uses-permission#android.permission.READ_LOGS
+ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:76:5-84
+	android:name
+		ADDED from E:\ToolBar1\app\src\main\AndroidManifest.xml:76:22-65
